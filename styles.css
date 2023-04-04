@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+
+.card1{
+position: absolute;
+width: 667px;
+height: 981px;
+left: 35px;
+top: 99px;
+background: #DFD6C5;
+border-radius: 30px;
+}
+.rect1{
+box-sizing: border-box;
+position: absolute;
+width: 207px;
+height: 34px;
+left: 53px;
+top: 80px;
+border: 1px solid #323025;
+border-radius: 50px;
+text-align: center;
+background-color:#DFD6C5 ;
+}
+
+.img{
+
+}
